@@ -21,7 +21,7 @@
 }
 
 body {
-    background: rgb(0, 0, 0, 0.2) url("daniel-zbroja-VV6OZBpTm08-unsplash.jpg") center/cover no-repeat fixed;
+    background: rgb(0, 0, 0, 0.2) url("Photo.jpg") center/cover no-repeat fixed;
 }
 
 a {
